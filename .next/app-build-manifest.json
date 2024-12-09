@@ -1,0 +1,53 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-5adebf9f62dc3001.js",
+      "static/chunks/0ca3c34b-1f8112bae536de06.js",
+      "static/chunks/95-630783b5f515b6f3.js",
+      "static/chunks/main-app-748c7221e3ace3e0.js",
+      "static/chunks/app/_not-found/page-948ea44bb1ef7c36.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-5adebf9f62dc3001.js",
+      "static/chunks/0ca3c34b-1f8112bae536de06.js",
+      "static/chunks/95-630783b5f515b6f3.js",
+      "static/chunks/main-app-748c7221e3ace3e0.js",
+      "static/chunks/app/layout-87e78d0bf3a69090.js"
+    ],
+    "/api/users/route": [
+      "static/chunks/webpack-5adebf9f62dc3001.js",
+      "static/chunks/0ca3c34b-1f8112bae536de06.js",
+      "static/chunks/95-630783b5f515b6f3.js",
+      "static/chunks/main-app-748c7221e3ace3e0.js",
+      "static/chunks/app/api/users/route-aa4d1d8751bd35d1.js"
+    ],
+    "/about/page": [
+      "static/chunks/webpack-5adebf9f62dc3001.js",
+      "static/chunks/0ca3c34b-1f8112bae536de06.js",
+      "static/chunks/95-630783b5f515b6f3.js",
+      "static/chunks/main-app-748c7221e3ace3e0.js",
+      "static/chunks/app/about/page-07c878320d0f22a3.js"
+    ],
+    "/about/projects/[projectId]/page": [
+      "static/chunks/webpack-5adebf9f62dc3001.js",
+      "static/chunks/0ca3c34b-1f8112bae536de06.js",
+      "static/chunks/95-630783b5f515b6f3.js",
+      "static/chunks/main-app-748c7221e3ace3e0.js",
+      "static/chunks/app/about/projects/[projectId]/page-dbc8a1c8e028e5a3.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-5adebf9f62dc3001.js",
+      "static/chunks/0ca3c34b-1f8112bae536de06.js",
+      "static/chunks/95-630783b5f515b6f3.js",
+      "static/chunks/main-app-748c7221e3ace3e0.js",
+      "static/chunks/app/page-2311565841d32dd1.js"
+    ],
+    "/pokemons/page": [
+      "static/chunks/webpack-5adebf9f62dc3001.js",
+      "static/chunks/0ca3c34b-1f8112bae536de06.js",
+      "static/chunks/95-630783b5f515b6f3.js",
+      "static/chunks/main-app-748c7221e3ace3e0.js",
+      "static/chunks/app/pokemons/page-e6606301f54a19dd.js"
+    ]
+  }
+}
