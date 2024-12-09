@@ -40,5 +40,5 @@ jobs:
           project: "thalissonvi-nextjs-deno-27"
           entrypoint: "jsr:@deno/nextjs-start"
           root: "."
-          include: .next, public
+          
           
